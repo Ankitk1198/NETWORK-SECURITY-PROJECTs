@@ -1,0 +1,7 @@
+﻿*.pcap
+*.log
+*.zip
+*.tmp
+__pycache__/
+*.pyc
+.DS_Store
